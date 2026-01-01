@@ -1,0 +1,15 @@
+ChromeDriver= D:/selenium Programmes/ObjectRepositoriesInSelenium/ChromeDriverJars/chromedriver.exe
+
+EdgeDriver= D:/selenium Programmes/ObjectRepositoriesInSelenium/EdgeDriverJars/msedgedriver.exe
+
+FirefoxDriver= D:/selenium Programmes/ObjectRepositoriesInSelenium/FirefoxDriverJars/geckodriver.exe
+
+baseurl= https://www.login.hiox.com/login?referrer=easycalculation.com
+
+Uname=log_email
+
+pass=log_password
+
+Signin= //input[@name='log_submit']
+
+ExcelPath=D:/selenium Programmes/ObjectRepositoriesInSelenium/src/Apache test data/Book 5.xlsx
